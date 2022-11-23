@@ -1,0 +1,5 @@
+{
+	"dockerhub-id": "cainchen1/dsc180a-methodology-3",
+	"build-script": "python run.py"
+
+}
